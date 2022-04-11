@@ -15,11 +15,11 @@
   <img align="left" alt="BespokeLemur's Web Sites" width="22px" src="https://github.com/BespokeLemur/BespokeLemur/blob/main/src/img/png/emirhanince.tk.png?raw=true" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=bespokelemur.bespokelemur)
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Emirhan](emirhanince.tk), a passionate self-taught full stack web developer and a freelance software engineer from Turkey. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
