@@ -1,15 +1,18 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/abhishknads/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/emir.h_n/">
+  <img align="left" alt="Emirhan's Instagram" width="22px" src="https://github.com/BespokeLemur/BespokeLemur/blob/main/src/img/png/instagram.png?raw=true" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discordhub.com/profile/783416346544832512">
+  <img align="left" alt="BespokeLemur's Discord" width="22px" src="https://raw.githubusercontent.com/BespokeLemur/BespokeLemur/5d506af2d3ca761052f9107f2f274beb9e2b627c/src/img/svg/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/BespokeLemur">
+  <img align="left" alt="BespokeLemur | Twitter" width="22px" src="https://raw.githubusercontent.com/BespokeLemur/BespokeLemur/5d506af2d3ca761052f9107f2f274beb9e2b627c/src/img/svg/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.youtube.com/channel/UCoIOLqlSdXjWPp3O2xXJ_nA">
+  <img align="left" alt="BespokeLemur's Youtube" width="22px" src="https://raw.githubusercontent.com/BespokeLemur/BespokeLemur/5d506af2d3ca761052f9107f2f274beb9e2b627c/src/img/svg/youtube.svg" />
+</a>
+<a href="emirhanince.tk">
+  <img align="left" alt="BespokeLemur's Web Sites" width="22px" src="https://raw.githubusercontent.com/BespokeLemur/BespokeLemur/5d506af2d3ca761052f9107f2f274beb9e2b627c/src/img/svg/web-site.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
