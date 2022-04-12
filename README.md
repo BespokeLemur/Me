@@ -2,16 +2,16 @@
 <a href="https://www.instagram.com/emir.h_n/" target="_blank">
   <img align="left" alt="Emirhan's Instagram" width="22px" src="https://github.com/BespokeLemur/BespokeLemur/blob/main/src/img/png/instagram.png?raw=true" />
 </a>
-<a href="https://discordhub.com/profile/783416346544832512">
+<a href="https://discordhub.com/profile/783416346544832512" target="_blank">
   <img align="left" alt="BespokeLemur's Discord" width="22px" src="https://raw.githubusercontent.com/BespokeLemur/BespokeLemur/5d506af2d3ca761052f9107f2f274beb9e2b627c/src/img/svg/discord.svg" />
 </a>
-<a href="https://twitter.com/BespokeLemur">
+<a href="https://twitter.com/BespokeLemur" target="_blank">
   <img align="left" alt="BespokeLemur | Twitter" width="22px" src="https://raw.githubusercontent.com/BespokeLemur/BespokeLemur/5d506af2d3ca761052f9107f2f274beb9e2b627c/src/img/svg/twitter.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCoIOLqlSdXjWPp3O2xXJ_nA">
+<a href="https://www.youtube.com/channel/UCoIOLqlSdXjWPp3O2xXJ_nA" target="_blank">
   <img align="left" alt="BespokeLemur's Youtube" width="22px" src="https://raw.githubusercontent.com/BespokeLemur/BespokeLemur/5d506af2d3ca761052f9107f2f274beb9e2b627c/src/img/svg/youtube.svg" />
 </a>
-<a href="https://emirhanince.tk">
+<a href="https://emirhanince.tk" target="_blank">
   <img align="left" alt="BespokeLemur's Web Sites" width="22px" src="https://github.com/BespokeLemur/BespokeLemur/blob/main/src/img/png/emirhanince.tk.png?raw=true" />
 </a>
 
