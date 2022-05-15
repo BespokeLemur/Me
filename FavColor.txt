@@ -1,0 +1,2 @@
+FavColor1: a855f7
+FavColor1/light: ac6de8
