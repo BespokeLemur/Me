@@ -5,7 +5,7 @@ azizcanbureoglu.emirhanince.tk: https://glitch.com/edit/#!/sugar-detailed-jackra
 minemeta.emirhanince.tk (mc server leadores): https://glitch.com/edit/#!/humble-cold-raja?path=apps%2Fcss%2Fmain.css%3A1%3A0
 emirhanince.tk: https://glitch.com/edit/#!/checkered-lemon-marmot?path=frontend%2Fcss%2Fanimate-heading.css%3A1%3A0
 emirhanince.tk v2: https://glitch.com/edit/#!/gravel-selective-dish?path=index.html%3A1%3A0
-Meta Music: https://glitch.com/edit/#!/fate-wave-cornucopia
+Meta Music: https://glitch.com/edit/#!/fate-wave-cornucopia / https://glitch.com/edit/#!/windy-grizzled-radiator?path=.env%3A6%3A0
 Meta Ticket: https://glitch.com/edit/#!/glacier-motley-mule
 https://glitch.com/edit/#!/heathered-cloudy-kilogram
 Meta Giveaway: https://glitch.com/edit/#!/abrupt-reminiscent-basket?path=index.js%3A1%3A0
@@ -15,3 +15,5 @@ https://fate-wave-cornucopia.glitch.me/
 https://heathered-cloudy-kilogram.glitch.me/
 
 Meta mod: https://glitch.com/edit/#!/orange-band-port
+
+uptime: https://codeshare.xyz
