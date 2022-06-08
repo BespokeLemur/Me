@@ -1,6 +1,7 @@
 <div align="center">
   <h1>🌸 BespokeLemur </h1>
 
+![](https://komarev.com/ghpvc/?username=BespokeLemur&color=blueviolet)
 <a href="https://discord.com/users/783416346544832512">
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
 </a>
